@@ -1,26 +1,26 @@
 # EthKart
 
-- Built by Team Torden as a part
+- Built by Team Torden as a part Amrita Blockcamp 2023 
+
+*We have refered the below link* 
+- Resources https://www.youtube.com/watch?v=X1ahXNYkpL8&t=2404s
 
 
-## Requirements For Initial Setup
-- Install [NodeJS](https://nodejs.org/en/)
+## Requirements
+- Should have nodejs
 
-## Setting Up
-### 1. Clone/Download the Repository
+###  Clone the Repo
 
-### 2. Install Dependencies:
 `$ npm install`
 
-### 3. Run tests
+###  Running  tests
 `$ npx hardhat test`
 
-### 4. Start Hardhat node
+### Hardhat node
 `$ npx hardhat node`
 
-### 5. Run deployment script
-In a separate terminal execute:
+### deploy open new teriminal
 `$ npx hardhat run ./scripts/deploy.js --network localhost`
 
-### 6. Start frontend
+### Start frontend (open new terminal)
 `$ npm run start`
